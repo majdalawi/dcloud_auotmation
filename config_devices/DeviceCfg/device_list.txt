@@ -1,0 +1,4 @@
+2022,DeviceCfg/Fusion.txt,Fusion
+2023,DeviceCfg/Core.txt,Core
+2024,DeviceCfg/Edge1a.txt,Edge1
+2025,DeviceCfg/Edge2a.txt,Edge2
